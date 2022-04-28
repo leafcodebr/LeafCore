@@ -1,0 +1,10 @@
+{
+  "plugins": {
+    "LeafTags": {
+      "version": 1.0.1
+    },
+    "LeafCore": {
+      "version": 1.0.0
+    }
+  }
+}
