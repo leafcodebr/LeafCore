@@ -68,3 +68,5 @@ Auto-broadcast:
     - "%leaf_prefix% &fAcesse o nosso fórum: &5%leaf_forum%&f!"
     - "%leaf_prefix% &fAcesse o nosso site: &5%leaf_site%&f!"
 ```
+![configurado](https://cdn.discordapp.com/attachments/967197530351865886/969372560284348436/cmd_lDKnBlG8NA.png)
+![configurado](https://cdn.discordapp.com/attachments/967197530351865886/969379853801488494/unknown.png)
