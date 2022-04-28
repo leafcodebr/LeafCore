@@ -1,4 +1,5 @@
 {
+  "plugin_list": "LeafTags, LeafCore",
   "plugins": {
     "LeafTags": {
       "version": "1.0.1"
