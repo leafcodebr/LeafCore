@@ -18,6 +18,11 @@ Estes são os replaces padrões, que você poderá utilizar em qualquer configur
 
 Estas informações são definidas na configuração!
 
+## Comandos
+### Comando /leaf:
+* /leaf reload - Recarregará as configurações.
+* /leaf plugins - Lista de plugins leaf.
+
 ## Configuração
 ```yml
 Database: MongoDB
