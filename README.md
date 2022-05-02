@@ -25,6 +25,15 @@ Estas informações são definidas na configuração!
 
 ## Configuração
 ```yml
+#
+# Todos os direitos reservados a Leaf Code;
+#
+# Este plugin é responsável pelo funcionamento de outros plugins da Leaf Code!
+# Utilize com carinho o nosso trabalho ♥, lembre-se de dar sugestões em nosso Discord!
+#
+# GitHub: https://github.com/leafcodebr
+# Nosso Discord sempre estará vinculado ao GitHub!
+#
 Database: MongoDB
 
 Databases:
@@ -57,9 +66,9 @@ Mensagens:
 #Auto-broadcast: Mensagens que serão enviadas no chat automaticamente.
 Auto-broadcast:
   # Enable: 'true' para ativar e 'false' para desativar.
-  enable: true
+  enable: false
   # Delay: O atraso para enviar a mensagem.
-  delay: 10
+  delay: 30
   # Som: Quando a mensagem for enviada, tocará um som (Deixe vazio para desativar)
   som: "WOOD_CLICK"
   mensagens:
