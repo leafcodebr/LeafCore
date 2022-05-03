@@ -1,5 +1,6 @@
 {
   "LeafCore": "1.0.1",
   "LeafTags": "1.0.1",
-  "LeafVanish": "1.0.0"
+  "LeafVanish": "1.0.0",
+  "LeafWhitelist": "1.0.0"
 }
