@@ -19,9 +19,11 @@ Estes são os replaces padrões, que você poderá utilizar em qualquer configur
 Estas informações são definidas na configuração!
 
 ## Comandos
-### Comando /leaf:
-* /leaf reload - Recarregará as configurações.
-* /leaf plugins - Lista de plugins leaf.
+|Comando         |Descrição                      |Permissão                    |
+|----------------|-------------------------------|-----------------------------|
+|/leaf        |Mostrará como utilizar o comando |`OP ou *`           |
+|/leaf reload    |Recarregará as configurações dos plugins Leaf |`OP ou *`       |
+|/leaf plugins    |Verá a lista de plugins Leaf no servidor |`OP ou *`       |
 
 ## Configuração
 ```yml
