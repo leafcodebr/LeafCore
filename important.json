@@ -1,5 +1,7 @@
 {
   "LeafCore": "true;false",
   "LeafTags": "false;false",
-  "LeafVanish": "false;false"
+  "LeafWhitelist": "false;false",
+  "LeafScoreboard": "false;false",
+  "LeafKitPvP": "true;true"
 }
