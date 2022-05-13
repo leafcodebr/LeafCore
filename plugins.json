@@ -1,5 +1,7 @@
 {
   "LeafCore": "1.0.2",
   "LeafTags": "1.0.3",
-  "LeafWhitelist": "1.0.0"
+  "LeafWhitelist": "1.0.0",
+  "LeafScoreboard": "1.0.0",
+  "LeafKitPvP": "1.0.0"
 }
