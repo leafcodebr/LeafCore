@@ -2,6 +2,6 @@
   "LeafCore": "true;false",
   "LeafTags": "false;false",
   "LeafWhitelist": "false;false",
-  "LeafScoreboard": "false;false",
+  "LeafScore": "false;false",
   "LeafKitPvP": "true;true"
 }
