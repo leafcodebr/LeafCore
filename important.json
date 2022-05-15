@@ -3,5 +3,6 @@
   "LeafTags": "false;false",
   "LeafWhitelist": "false;false",
   "LeafScore": "false;false",
-  "LeafKitPvP": "true;true"
+  "LeafKitPvP": "true;true",
+  "LeafRanks": "true;false"
 }
