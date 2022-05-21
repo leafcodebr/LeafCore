@@ -4,5 +4,5 @@
   "LeafWhitelist": "false;false",
   "LeafScore": "false;false",
   "LeafKitPvP": "true;true",
-  "LeafRanks": "true;true"
+  "LeafRanks": "false;false"
 }
