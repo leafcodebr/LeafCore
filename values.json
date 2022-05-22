@@ -3,6 +3,6 @@
   "LeafTags": "false;false",
   "LeafWhitelist": "false;false",
   "LeafScore": "false;false",
-  "LeafPvP": "true;true",
+  "LeafPvP": "false;false",
   "LeafRanks": "false;false"
 }
