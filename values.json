@@ -2,5 +2,6 @@
   "LeafCore": "false;false",
   "LeafTags": "false;false",
   "LeafWhitelist": "false;false",
-  "LeafScore": "false;false"
+  "LeafScore": "false;false",
+  "LeafAutoRestart": "false;false"
 }
