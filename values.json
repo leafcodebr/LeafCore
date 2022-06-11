@@ -3,5 +3,6 @@
   "LeafTags": "false;false",
   "LeafWhitelist": "false;false",
   "LeafScore": "false;false",
-  "LeafAutoRestart": "false;false"
+  "LeafAutoRestart": "false;false",
+  "LeafRanks": "false;false"
 }
