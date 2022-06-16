@@ -3,6 +3,6 @@
   "LeafTags": "false;false",
   "LeafWhitelist": "false;false",
   "LeafScore": "false;false",
-  "LeafChat": "true;true",
+  "LeafChat": "false;true",
   "LeafRanks": "false;false"
 }
