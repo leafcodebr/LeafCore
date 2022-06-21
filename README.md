@@ -1,2 +1,2 @@
 # 💜 LeafCore
-Clique [aqui](https://github.com/leafcodebr/LeafCore/wiki) para ver a Wiki deste plugin.
+Clique [aqui](https://www.spigotmc.org/resources/leafcore.102795/) para ver a Wiki deste plugin.
