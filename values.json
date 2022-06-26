@@ -4,5 +4,6 @@
   "LeafWhitelist": "false;false",
   "LeafScore": "false;false",
   "LeafChat": "false;false",
-  "LeafRanks": "false;false"
+  "LeafRanks": "false;false",
+  "LeafTemp": "false,false"
 }
