@@ -1,0 +1,5 @@
+Comandos:
+  Sem-permissao: "&cVocê não tem permissão para utilizar este comando!"
+  Target-player: "&cVocê não pode utilizar este comando em si mesmo!"
+  Target-offline: "&cÉ necessário que o jogador {player} esteja online!"
+  Comando-desativado: "&cComando indisponível."
