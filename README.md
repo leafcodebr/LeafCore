@@ -8,7 +8,7 @@ Este plugin é necessário para o funcionamento de todos os plugins Leaf.
 |/leaf |Gerencie os plugins Leaf. |`OP ou permissão total`|
 
 ## Download
-Você pode encontrar o plugin pronto para baixar [**aqui**](https://github.com/leafcodebr/LeafTags/releases).
+Você pode encontrar o plugin pronto para baixar [**aqui**](https://github.com/leafcodebr/LeafCore/releases).
 
 ## Configuração
 
