@@ -1,0 +1,38 @@
+#
+# Todos os direitos reservados a Leaf Code;
+#
+# Este plugin é responsável pelo funcionamento de outros plugins da Leaf Code!
+# Utilize com carinho o nosso trabalho ♥, lembre-se de dar sugestões em nosso Discord!
+#
+# GitHub: https://github.com/leafcodebr
+# Nosso Discord sempre estará vinculado ao GitHub!
+#
+MySQL:
+  Host: 'localhost'
+  Usuario: 'root'
+  Senha: ''
+  Porta: 3306
+  Database: 'leaf_core'
+  Tabela: 'leafcore'
+Opcoes:
+  Notify-updates : true
+  # Bungee-detect: Caso esteja 'true', fará que caso detectado,
+  # todos os plugins entrem em modo BungeeCord automaticamente
+  Bungee-detect: true
+  # Modo-bungee: Caso esteja 'true', fará que o plugin
+  # entre em modo BungeeCord
+  Modo-bungee: true
+# Servidor: Você poderá utilizar estas informações nas configurações de texto dos plugins LeafCode.
+Servidor:
+  # Utilize %leaf_nome% para usar esta informação.
+  Nome: "LeafMC"
+  # Utilize %leaf_prefix% para usar esta informação.
+  Prefix: "&5&lLeaf&f&lMC"
+  # Utilize %leaf_site% para usar esta informação.
+  Site: "www.github.com/leafcodebr"
+  # Utilize %leaf_discord% para usar esta informação.
+  Discord: "www.github.com/leafcodebr"
+  # Utilize %leaf_forum% para usar esta informação.
+  Forum: "www.github.com/leafcodebr"
+  # Utilize %leaf_loja% para usar esta informação
+  Loja: "www.github.com/leafcodebr"
