@@ -15,4 +15,4 @@ Você pode encontrar o plugin pronto para baixar [**aqui**](https://github.com/l
 O plugin possui as configurações bem fáceis e completas. Você pode ver as configurações padrões [clicando aqui](https://github.com/leafcodebr/LeafCore/tree/main/configs).
 
 ## Créditos
-[JadAPI](https://github.com/JadssDev/JadAPI) - utilizada para ajustes nas compatibilidades.
+[JadAPI](https://github.com/JadssDev/JadAPI) - utilizada para ajustes na compatibilidade entre versões.
