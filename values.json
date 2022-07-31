@@ -1,7 +1,7 @@
 {
   "LeafCore": "false;false",
   "LeafTags": "false;false",
-  "LeafWhitelist": "false;false",
+  "LeafWhitelist": "true;true",
   "LeafScore": "false;false",
   "LeafChat": "false;false",
   "LeafRanks": "false;false",
